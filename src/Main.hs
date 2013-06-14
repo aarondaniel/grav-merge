@@ -17,7 +17,7 @@ import Simulation
 -- add Pause button
 -- set maximum time for simulation
 -- make curWorld a local variable
--- test Git Merge
+-- test Git Merge here too
 
 data Gravity = Gravity
 
