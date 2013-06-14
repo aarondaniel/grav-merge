@@ -1,6 +1,6 @@
 {-# LANGUAGE TypeFamilies, QuasiQuotes, MultiParamTypeClasses,
              TemplateHaskell, OverloadedStrings #-}
--- Aaron's test2 and test4
+-- Aaron's test2 and test 3
 module Main where
 
 import Yesod
@@ -17,6 +17,7 @@ import Simulation
 -- add Pause button
 -- set maximum time for simulation
 -- make curWorld a local variable
+-- test Git Merge
 
 data Gravity = Gravity
 
