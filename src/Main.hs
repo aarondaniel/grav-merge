@@ -1,6 +1,6 @@
 {-# LANGUAGE TypeFamilies, QuasiQuotes, MultiParamTypeClasses,
              TemplateHaskell, OverloadedStrings #-}
--- Aaron's test2 and test 3 and several more too
+-- Aaron's test2 and test 3 and several more of the same
 module Main where
 
 import Yesod
