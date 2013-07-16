@@ -1,10 +1,6 @@
 {-# LANGUAGE TypeFamilies, QuasiQuotes, MultiParamTypeClasses,
              TemplateHaskell, OverloadedStrings #-}
-<<<<<<< HEAD
--- Aaron's testing new here silly kitty cat
-=======
 -- Aaron's testing new here not so fast
->>>>>>> 365885da4c7e168df7ffb18c01280b0353c86c52
 -- try this for the test branch
 module Main where
 
