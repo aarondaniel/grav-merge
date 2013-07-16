@@ -11,10 +11,8 @@ modules:
   Json:
     filename: src/Json.hs
   Main:
-    target-type: web
     filename: src/Main.hs
   Test.Main:
-    target-type: console
     filename: src/Test/Main.hs
   Simulation:
     filename: src/Simulation.hs
