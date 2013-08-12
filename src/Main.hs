@@ -16,7 +16,7 @@ getHomeR = defaultLayout [whamlet|
   <br>
   <a href="http://fpcomplete.com">Visit our site!
   <p>
-  And bold <b>within</b> a string
+  And bold <b>here within</b> a string
   |]
 
 main = warpEnv Piggies
