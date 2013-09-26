@@ -1,6 +1,6 @@
 {-# LANGUAGE TypeFamilies, QuasiQuotes, MultiParamTypeClasses,
              TemplateHaskell, OverloadedStrings #-}
--- Aaron's testing new here for commit change on server
+-- Aaron's testing new here for commit change on server and local
 -- this from aarond_1 for master branch
 module Main where
 
