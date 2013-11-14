@@ -1,8 +1,9 @@
-module-template: ! 'module MODULE_NAME where
+module-template: ! 'module MODULE_NAME whereas
 
 '
 extensions: {}
-environment: null
+environment: ghc-7.4.2-stable-13.09
+hidden-packages: ''
 modules:
   World:
     filename: src/World.hs
@@ -17,4 +18,5 @@ modules:
   Simulation:
     filename: src/Simulation.hs
 version: 1
+extra-packages: ''
 ghc-args: []

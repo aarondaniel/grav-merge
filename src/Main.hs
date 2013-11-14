@@ -1,7 +1,7 @@
 {-# LANGUAGE TypeFamilies, QuasiQuotes, MultiParamTypeClasses,
              TemplateHaskell, OverloadedStrings #-}
--- Aaron's testing new here not so fast
--- this from aarond_1 for master branch
+-- Aaron's testing new here
+-- touched for 2.2 update
 module Main where
 
 import Yesod
