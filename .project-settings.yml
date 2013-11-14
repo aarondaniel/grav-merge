@@ -1,18 +1,20 @@
-extensions: {}
-version: 1
 module-template: ! 'module MODULE_NAME where
 
 '
+extensions: {}
+environment: null
 modules:
   World:
     filename: src/World.hs
-  Physics:
-    filename: src/Physics.hs
   Json:
     filename: src/Json.hs
-  Main:
-    filename: src/Main.hs
+  Physics:
+    filename: src/Physics.hs
   Test.Main:
     filename: src/Test/Main.hs
+  Main:
+    filename: src/Main.hs
   Simulation:
     filename: src/Simulation.hs
+version: 1
+ghc-args: []

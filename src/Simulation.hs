@@ -4,7 +4,7 @@ import World
 import Physics
 import Control.Parallel.Strategies
 
--- Move a particle according to its velocity for the given 
+-- Move a particle according to its velocity for the given
 -- number of (simulated) seconds.
 --
 moveParticle :: Float -> Particle -> Particle
