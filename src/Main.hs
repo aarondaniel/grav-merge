@@ -2,7 +2,7 @@
              TemplateHaskell, OverloadedStrings #-}
 -- Aaron's testing new here
 -- touched for 2.2 update
--- updated on GitHub to cause a merge, merge worked!
+-- updated on GitHub to cause a merge dupped
 module Main where
 
 import Yesod
