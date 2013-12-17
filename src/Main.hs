@@ -5,7 +5,7 @@
 
 -- new comment for 2.3
 -- add this for pull testing
--- no this for merge testing
+-- and this for merge testing
 module Main where
 
 import Yesod
