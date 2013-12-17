@@ -2,6 +2,8 @@
              TemplateHaskell, OverloadedStrings #-}
 -- Aaron's testing new here not so fast
 -- this from aarond_1 for master branch
+
+-- new comment for 2.3
 module Main where
 
 import Yesod
