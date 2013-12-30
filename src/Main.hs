@@ -9,6 +9,7 @@
 -- new comment post merging
 
 -- new comment for 2.3 hotfix
+-- to get rid of
 module Main where
 
 import Yesod
