@@ -7,6 +7,8 @@
 -- add this for pull testing
 -- and this for merge testing
 -- new comment post merging
+
+-- new comment for 2.3 hotfix
 module Main where
 
 import Yesod
