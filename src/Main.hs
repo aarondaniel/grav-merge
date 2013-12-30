@@ -9,6 +9,7 @@
 -- new comment post merging
 
 -- new comment for 2.3 hotfix
+-- from github's side
 module Main where
 
 import Yesod
