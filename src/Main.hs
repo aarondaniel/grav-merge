@@ -9,7 +9,7 @@
 -- new comment post merging
 
 -- new comment for 2.3 hotfix
--- to get rid of
+-- from github's side
 module Main where
 
 import Yesod
