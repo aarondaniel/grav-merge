@@ -11,6 +11,7 @@
 -- new comment for 2.3 hotfix
 -- from github's side
 -- test again
+-- test 1.1
 
 module Main where
 
