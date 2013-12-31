@@ -12,7 +12,11 @@
 -- from github's side
 -- test again
 -- test 1.1
+<<<<<<< HEAD
 -- test 1.2
+=======
+-- test 1.3
+>>>>>>> 0e183421bb954ff1761f45af4593d7600de78163
 
 module Main where
 
