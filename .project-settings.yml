@@ -2,7 +2,9 @@ module-template: ! 'module MODULE_NAME where
 
 '
 extensions: {}
-environment: default
+environment: ghc-7.4.2-stable-13.09
+hidden-packages: ''
 version: 1
+extra-packages: ''
 ghc-args: []
 excluded-modules: []

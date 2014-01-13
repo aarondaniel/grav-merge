@@ -1,5 +1,5 @@
 module Test.Main where
--- test in IDE 1.2
+-- test on github 1.1
 import Simulation
 import World
 
