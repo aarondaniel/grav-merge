@@ -1,5 +1,5 @@
 -- a 3rd main.hs to test with
-
+-- test from github
 module Test2.Main where
 import Simulation
 import World
