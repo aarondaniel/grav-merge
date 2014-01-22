@@ -1,6 +1,6 @@
 module Test.Main where
 -- test on github 1.1
--- test in IDE
+-- test on github for merge test
 import Simulation
 import World
 
