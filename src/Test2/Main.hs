@@ -1,6 +1,6 @@
 -- a 3rd main.hs to test with
 
-module Test.Main where
+module Test2.Main where
 import Simulation
 import World
 
